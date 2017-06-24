@@ -1,0 +1,30 @@
+body {width: 900px;background: #cccccc; text-align:center; margin: 0 auto; }
+header{background: #C63D0F}
+
+h1 {
+    text-align: center;
+font-family: courier, courier-new, serif;
+font-size: 20 pt
+border-bottom: 2px solid black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 14px;
+    }
+
+article {border: 3px double #999; background-color: #f2f2f2; }
+
